@@ -1,0 +1,8 @@
+//Tutorial pra envio de email com node JS
+https://www.youtube.com/watch?v=zrXOjWICmGw
+
+//Tutorial criando um api rest
+https://www.youtube.com/watch?v=p-x6WdwaJco
+
+//Tutorial em português 
+https://www.youtube.com/watch?v=OflkE1WQfjw
